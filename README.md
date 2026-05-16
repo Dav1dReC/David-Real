@@ -57,5 +57,5 @@ Un Jupyter Notebook desarrollado para la asignatura de **Sistemas Inteligentes**
 ---
 
 ## 📫 Contacto / Redes
-* 💼 [LinkedIn]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/david-real-carrasco-655604314/))
+* 💼 [LinkedIn](https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/david-real-carrasco-655604314/)
 * 📧 Correo: [davidrealca@gmail.com]
